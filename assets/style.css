@@ -1,0 +1,10 @@
+:root {
+    --content-height: 500px;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: rgb(179, 185, 185);
+    text-align: center;
+}
+
